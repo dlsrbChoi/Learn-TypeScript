@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "allowJs": true, // 자바스크립트 허용
+    "checkJs": true, // @ts-check
+    "noImplicitAny": true, // 모든 타입에 대해 최소 any라도 넣어야 함
+    "skipLibCheck": true, // TS2300: Duplicate identifier 에러
+  }
+}
